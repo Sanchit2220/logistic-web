@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { keyframes } from 'styled-components';
-import HeroImage from "../../assets/image-1.png"
+import HeroImage from "../../assets/about.png"
 
 // Animation for a subtle fade-in effect
 const fadeIn = keyframes`
